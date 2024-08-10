@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gaali Finder</string>
+    <string name="dev_aniruddha_roy_n_cse_22">DEV : Aniruddha Roy\n(CSE.22)</string>
+    <string name="audio_title">Audio Title</string>
+    <string name="play">Play</string>
+    <string name="share">Share</string>
+    <string name="bara_choda">Bara choda</string>
+    <string name="bokachoda_khanki">Bokachoda Khanki</string>
+    <string name="khankir_chele">Khankir Chele</string>
+    <string name="bessha_maagi">Bessha Maagi</string>
+    <string name="motherchod">Motherchod</string>
+    <string name="banchod">Banchod</string>
+</resources>
